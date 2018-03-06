@@ -1,6 +1,25 @@
+echo ""
+echo ""
+echo ""
+echo " BUILD Visual Studio Project "
+echo ""
+echo ""
+echo ""
 MSBuild.exe CCodeParser.sln
-pause
+echo ""
+echo ""
+echo ""
+echo " Start Unit Test "
+echo ""
+echo ""
+echo ""
 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\mstest.exe"  /testcontainer:"UnitTest\bin\Debug\UnitTest.dll"
-pause
+echo ""
+echo ""
+echo ""
+echo " End Of Unit Test Running!"
+echo ""
+echo ""
+echo ""
 cd TestResults
 type *.trx
