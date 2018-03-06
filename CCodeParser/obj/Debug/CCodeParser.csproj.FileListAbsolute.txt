@@ -4,3 +4,9 @@ C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\CCodeParser\b
 C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\CCodeParser\obj\Debug\CCodeParser.csprojResolveAssemblyReference.cache
 C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\CCodeParser\obj\Debug\CCodeParser.exe
 C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\CCodeParser\obj\Debug\CCodeParser.pdb
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\bin\Debug\CCodeParser.exe.config
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\bin\Debug\CCodeParser.exe
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\bin\Debug\CCodeParser.pdb
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\obj\Debug\CCodeParser.csprojResolveAssemblyReference.cache
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\obj\Debug\CCodeParser.exe
+C:\Users\deroche\Documents\CCodeParser\CCodeParser\obj\Debug\CCodeParser.pdb

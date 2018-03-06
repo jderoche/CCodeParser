@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCodeParser", "CCodeParser\CCodeParser.csproj", "{649DB742-6871-4E34-A762-A1D6CC10E19C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCCodeParser", "UnitTestCCodeParser\UnitTestCCodeParser.csproj", "{FB4AEE49-8C53-49BF-9906-88DDB8CF5F18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{FB4AEE49-8C53-49BF-9906-88DDB8CF5F18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
