@@ -1,7 +1,0 @@
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\obj\Debug\UnitTestCCodeParser.csprojResolveAssemblyReference.cache
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\bin\Debug\UnitTestCCodeParser.dll
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\bin\Debug\UnitTestCCodeParser.pdb
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\bin\Debug\CCodeParser.exe
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\bin\Debug\CCodeParser.pdb
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\obj\Debug\UnitTestCCodeParser.dll
-C:\Users\deroche\Documents\Visual Studio 2012\Projects\CCodeParser\UnitTestCCodeParser\obj\Debug\UnitTestCCodeParser.pdb
